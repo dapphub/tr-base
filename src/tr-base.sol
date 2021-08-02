@@ -2,5 +2,5 @@
 pragma solidity ^0.8.6;
 
 function version() pure returns (string memory) {
-    return "v0";
+    return "v1";
 }
